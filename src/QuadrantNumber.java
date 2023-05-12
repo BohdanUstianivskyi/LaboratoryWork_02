@@ -1,11 +1,10 @@
 import java.util.Scanner;
-public class QuadrantIdentifier {
-
+public class QuadrantNumber {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter the x-coordinate: ");
+        System.out.print("Enter the x: ");
         double x = input.nextDouble();
-        System.out.print("Enter the y-coordinate: ");
+        System.out.print("Enter the y: ");
         double y = input.nextDouble();
 
         int quadrant;
@@ -22,7 +21,7 @@ public class QuadrantIdentifier {
             quadrant = 4;
         }
 
-        System.out.println("The point is in quadrant " + quadrant);
+        System.out.println("A point with given coordinates " + quadrant);
     }
 }
 
