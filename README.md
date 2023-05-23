@@ -26,7 +26,19 @@ git clone https://github.com/BohdanUstianivskyi/LaboratoryWork_02
 # Results
 
 Task_1: <br>
-
 ![1](https://github.com/BohdanUstianivskyi/LaboratoryWork_02/assets/132481363/adcdf5a3-762a-48f4-9427-b30f57818cf7)
 
 Task_2: <br>
+![2](https://github.com/BohdanUstianivskyi/LaboratoryWork_02/assets/132481363/0624f9b3-af2f-4595-96f7-147cf5a03850)
+
+Task_3: <br>
+![3](https://github.com/BohdanUstianivskyi/LaboratoryWork_02/assets/132481363/54e696d5-9b1d-4ba9-8a9f-c46afa4140a3)
+
+Task_4: <br>
+![4](https://github.com/BohdanUstianivskyi/LaboratoryWork_02/assets/132481363/94e794a2-8494-4b05-b5fc-177795e7e7b7)
+
+Task_5: <br>
+![5](https://github.com/BohdanUstianivskyi/LaboratoryWork_02/assets/132481363/5a422edd-a852-4f68-a379-66efcc728af1)
+
+
+
