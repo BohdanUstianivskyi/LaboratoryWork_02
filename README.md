@@ -17,4 +17,10 @@ This project involves the following tasks:
 
 ![image2](https://github.com/BohdanUstianivskyi/LaboratoryWork_02/assets/132481363/77ae2c00-84aa-4f24-bc11-5d41b8d192fb)
 
+# Requirements.
+To run this project, you must have the following installed on your computer: IntelliJ IDEA Community Edition.
+
+# Build Instructions
+Clone the repository to your local machine using <br>
+git clone
 
