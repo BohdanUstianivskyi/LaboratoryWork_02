@@ -26,4 +26,7 @@ git clone https://github.com/BohdanUstianivskyi/LaboratoryWork_02
 # Results
 
 Task_1: <br>
+
 ![1](https://github.com/BohdanUstianivskyi/LaboratoryWork_02/assets/132481363/adcdf5a3-762a-48f4-9427-b30f57818cf7)
+
+Task_2: <br>
