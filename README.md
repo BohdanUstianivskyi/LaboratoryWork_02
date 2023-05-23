@@ -10,4 +10,4 @@ This project involves the following tasks:
 4. Solve individual tasks according to the option. Variants of tasks:
 
 4.1 Using a conditional operator, write a program to calculate f(x) , enter x from the keyboard:
-![image1](file:///C:/Users/bodab/Desktop/1.png)
+![image1](https://github.com/BohdanUstianivskyi/LaboratoryWork_02/assets/132481363/884973b3-8603-4f49-83f8-1d25ed612851)
