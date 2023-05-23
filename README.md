@@ -14,3 +14,7 @@ This project involves the following tasks:
 ![image1](https://github.com/BohdanUstianivskyi/LaboratoryWork_02/assets/132481363/884973b3-8603-4f49-83f8-1d25ed612851)
 
 4.2 Using the selection operator, compile programs for the following tasks:
+
+![image2](https://github.com/BohdanUstianivskyi/LaboratoryWork_02/assets/132481363/77ae2c00-84aa-4f24-bc11-5d41b8d192fb)
+
+
